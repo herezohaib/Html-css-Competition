@@ -1,0 +1,40 @@
+.container-fluid{
+    background-color: white;
+position: relative;
+top: 44px;
+
+}
+.nav-link{
+    position: relative;
+    left: 333px;
+    font-weight: bold;
+}
+.searchbar{
+    margin-left: 444px;
+}
+body{
+  background-image: url("https://preview.colorlib.com/theme/sel/img/banner/home-banner.jpg.webp");;
+    
+}
+.content{
+    font-family: sans-serif;
+    font-weight: lighter;
+    position: absolute;
+    top: 344px;
+    left: 114px;
+}
+#Home{
+    font-size: 43px;
+    font-weight: bold;
+   
+   
+   
+}
+#button{
+    width: 133px;
+    height: 56px;
+    background-color: red;
+   
+
+}   
+   
